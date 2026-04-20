@@ -7,5 +7,5 @@ Go to https://ollama.com/download/ollama-linux-amd64.tar.zst on Google Chrome, i
 
 # Final result
 - `ollama-linux-amd64.tar.zst` file
-- `ollama_registry_qwen3-coder_30b` directory
-- `ollama_registry_qwen2.5-coder_32b` directory
+- `qwen3-coder_30b.gguf` file
+- `qwen2.5-coder_32b.gguf` file

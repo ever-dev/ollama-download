@@ -1,0 +1,1 @@
+ollama create qwen2.5-coder:32b -f qwen2.5-coder-32b-model.txt

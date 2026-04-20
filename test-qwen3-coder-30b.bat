@@ -1,0 +1,1 @@
+ollama create qwen3-coder:30b -f qwen3-coder-30b-model
